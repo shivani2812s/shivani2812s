@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning MERN stack **MongoDb,Express and NodeJs**
 
-- 💬 Ask me about **react,gsap and Tailwind**
+- 💬 Ask me about **react,NodeJs,Express and TailwindCSS**
 
 - 📫 How to reach me **shivanisingh36813@gmail.com**
 

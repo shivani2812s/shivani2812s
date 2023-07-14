@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani Singh</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Versatile Full-Stack Developer Skilled in Frontend and Backend Technologies for Seamless Web Application Development</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani2812s&label=Profile%20views&color=0e75b6&style=flat" alt="shivani2812s" /> </p>

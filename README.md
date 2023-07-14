@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/shivani_2203" target="blank"><img src="https://img.shields.io/twitter/follow/shivani_2203?logo=twitter&style=for-the-badge" alt="shivani_2203" /></a> </p>
 
-- 🌱 I’m currently learning MERN stack **MongoDb,Express and NodeJs**
+- 🌱 I’m currently learning MERN stack **More depth of backened development**
 
-- 💬 Ask me about **react,NodeJs,Express and TailwindCSS**
+- 💬 Ask me about **Frontend Development and backened Development**
 
 - 📫 How to reach me **shivanisingh36813@gmail.com**
 
